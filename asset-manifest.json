@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/buzzfair/d.portfolio.git/static/css/main.6e515215.chunk.css",
+    "main.js": "/buzzfair/d.portfolio.git/static/js/main.2053ae4d.chunk.js",
+    "main.js.map": "/buzzfair/d.portfolio.git/static/js/main.2053ae4d.chunk.js.map",
+    "runtime-main.js": "/buzzfair/d.portfolio.git/static/js/runtime-main.3e308934.js",
+    "runtime-main.js.map": "/buzzfair/d.portfolio.git/static/js/runtime-main.3e308934.js.map",
+    "static/css/2.4eb38d7c.chunk.css": "/buzzfair/d.portfolio.git/static/css/2.4eb38d7c.chunk.css",
+    "static/js/2.9bc6e910.chunk.js": "/buzzfair/d.portfolio.git/static/js/2.9bc6e910.chunk.js",
+    "static/js/2.9bc6e910.chunk.js.map": "/buzzfair/d.portfolio.git/static/js/2.9bc6e910.chunk.js.map",
+    "index.html": "/buzzfair/d.portfolio.git/index.html",
+    "precache-manifest.9c7c4d35c882ce443e65876bb7b4c165.js": "/buzzfair/d.portfolio.git/precache-manifest.9c7c4d35c882ce443e65876bb7b4c165.js",
+    "service-worker.js": "/buzzfair/d.portfolio.git/service-worker.js",
+    "static/css/2.4eb38d7c.chunk.css.map": "/buzzfair/d.portfolio.git/static/css/2.4eb38d7c.chunk.css.map",
+    "static/css/main.6e515215.chunk.css.map": "/buzzfair/d.portfolio.git/static/css/main.6e515215.chunk.css.map",
+    "static/js/2.9bc6e910.chunk.js.LICENSE.txt": "/buzzfair/d.portfolio.git/static/js/2.9bc6e910.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/buzzfair/d.portfolio.git/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e308934.js",
+    "static/css/2.4eb38d7c.chunk.css",
+    "static/js/2.9bc6e910.chunk.js",
+    "static/css/main.6e515215.chunk.css",
+    "static/js/main.2053ae4d.chunk.js"
+  ]
+}
